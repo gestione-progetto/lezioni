@@ -14,3 +14,16 @@ git clone 'your SSH clone URL'
 6. Create your java classes following the instruction of this [video tutorial](https://www.youtube.com/watch?v=WPvGqX-TXP0).
 
   Divide the work into different commits in different days.
+
+#### 16/11/2015
+
+1. Creare su github un repository avente come nome “homework”
+
+2. Creare un programma che genera un numero a caso tra 1 e 16. (potete utilizzare qualsiasi linguaggio di programmazione)
+
+
+Ipotesi:
+
+In JavaScript potete utilizzare le seguenti funzioni
+Math.random -> genera un numero da 0 a 1
+Math.floor estrae la parte intera del numero
