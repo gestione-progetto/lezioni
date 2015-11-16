@@ -1,5 +1,7 @@
 ### Homeworks
 
+#### Homework 1
+
 1. Download and install [git bash](https://git-for-windows.github.io/).
 2. Generate a SSH key. You can follow [these instructions](https://help.github.com/articles/generating-ssh-keys/).
 3. Create a new project (repository) with the name `java-core`.
@@ -15,15 +17,17 @@ git clone 'your SSH clone URL'
 
   Divide the work into different commits in different days.
 
-#### 16/11/2015
+#### Homework 2
 
 1. Creare su github un repository avente come nome “homework”
 
 2. Creare un programma che genera un numero a caso tra 1 e 16. (potete utilizzare qualsiasi linguaggio di programmazione)
 
 
-Ipotesi:
+Esempio:
 
-In JavaScript potete utilizzare le seguenti funzioni
-Math.random -> genera un numero da 0 a 1
-Math.floor estrae la parte intera del numero
+In JavaScript potete utilizzare le seguenti funzioni:
+````
+Math.random() // genera un numero da 0 a 1
+Math.floor() // estrae la parte intera del numero
+```
